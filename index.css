@@ -1,3 +1,4 @@
+/* css credit: http://forrst.com/posts/CSS3_only_3D_Animated_Atom-4Dr */
 #main { width:500px; height:500px; margin:50px auto; }
 #atom { width:500px; height:500px; /*border:1px solid red;*/ -webkit-perspective: 1000; position:relative; }
 
